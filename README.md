@@ -17,8 +17,8 @@ This repository contains the code and data in a study on the ability of large la
 Exectute the following commands in the terminal to clone the repository and install the required packages.
 
 ```bash
-git clone https://github.com/sherbold/chatgpt-student-essay-study.git
-cd chatgpt-student-essay-study
+git clone git@github.com:aieng-lab/replication-kit-qtgpt-study.git
+cd replication-kit-qtgpt-study
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt

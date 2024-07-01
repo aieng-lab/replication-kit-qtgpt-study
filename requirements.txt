@@ -1,8 +1,11 @@
-numpy
-matplotlib
-scipy
-statsmodels
-pandas
-seaborn
-pingouin
-spacy
+numpy==1.26.4
+matplotlib==3.8.4
+scipy==1.13.0
+statsmodels==0.14.2
+pandas==2.2.2
+seaborn==0.13.2
+pingouin==0.5.4
+spacy==3.7.5
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
+lexicalrichness==0.5.1
+jupyterlab
