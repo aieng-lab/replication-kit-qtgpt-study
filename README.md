@@ -12,7 +12,7 @@ This repository contains the code and data in a study on the ability of large la
 - statistical_analysis.ipynb: Jupyter notebook with the statistical analysis of the data.
 - calc_lingustic_features.ipynb: Jupyter notebook with the code to calculate the linguistic features that describe the linguistic surface.
 
-## Usage exmaple for Ubuntu 22.04
+## Usage example for Ubuntu 22.04
 
 Exectute the following commands in the terminal to clone the repository and install the required packages.
 
