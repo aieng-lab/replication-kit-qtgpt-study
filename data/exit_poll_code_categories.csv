@@ -1,0 +1,113 @@
+﻿code,category
+ai_as_tool,AI as support for humans in debates
+ai_bad_quality,AI has bad quality answers
+ai_bad_quality_authentic,AI has bad quality answers
+ai_bad_quality_confusing_statements,AI has bad quality answers
+ai_bad_quality_sentences,AI has bad quality answers
+ai_better_coherence_expected,AI better coherence due to debate setting
+ai_better_quality,AI answers better than humans
+ai_better_quality_accuracy,AI answers better than humans
+ai_better_quality_argumentation,AI answers better than humans
+ai_better_quality_articulate,AI answers better than humans
+ai_better_quality_authentic,AI answers better than humans
+ai_better_quality_authenticity,AI answers better than humans
+ai_better_quality_clearer,AI answers better than humans
+ai_better_quality_coherence,AI answers better than humans
+ai_better_quality_coherence_expected,AI better coherence due to debate setting
+ai_better_quality_coherent,AI answers better than humans
+ai_better_quality_convincingness,AI answers better than humans
+ai_better_quality_detailed,AI answers better than humans
+ai_better_quality_evidence_based,AI answers better than humans
+ai_better_quality_flow,AI answers better than humans
+ai_better_quality_fluency,AI answers better than humans
+ai_better_quality_grammar,AI answers better than humans
+ai_better_quality_honesty,AI answers better than humans
+ai_better_quality_informative,AI answers better than humans
+ai_better_quality_less_emotion,AI answers better than humans
+ai_better_quality_reasoning,AI answers better than humans
+ai_better_quality_relavance,AI answers better than humans
+ai_better_quality_relevance,AI answers better than humans
+ai_better_quality_structure,AI answers better than humans
+ai_better_quality_understanding,AI answers better than humans
+ai_better_quality_usefulness,AI answers better than humans
+ai_data_source,AI use for debates should be responsible and regulated
+ai_fact_correctness,AI can be dangerous and misused
+ai_good_balanced,AI has good quality answers
+ai_good_quality,AI has good quality answers
+ai_good_quality_accuracy,AI has good quality answers
+ai_good_quality_adapts_to_new_topics,AI has good quality answers
+ai_good_quality_authenticity,AI has good quality answers
+ai_good_quality_balanced,AI has good quality answers
+ai_good_quality_clarity,AI has good quality answers
+ai_good_quality_coherence,AI has good quality answers
+ai_good_quality_considered,AI has good quality answers
+ai_good_quality_convincing,AI has good quality answers
+ai_good_quality_convincingness,AI has good quality answers
+ai_good_quality_detailed,AI has good quality answers
+ai_good_quality_fluency,AI has good quality answers
+ai_good_quality_reasoning,AI has good quality answers
+ai_good_quality_relevance,AI has good quality answers
+ai_good_quality_sentence_structure,AI has good quality answers
+ai_quality_good_summarization,AI has good quality answers
+ai_use_imitates,AI only imitates humans
+ai_indistinguishable,AI is indistinguishable from humans
+ai_misuse,AI can be dangerous and misused
+ai_not_as_familiar,Less familiar with AI than expected
+ai_replace_humans,AI can be dangerous and misused
+ai_too_coherent,AI use suspected
+ai_use_caution,AI can be dangerous and misused
+ai_use_danger,AI can be dangerous and misused
+ai_use_deceive,AI can be dangerous and misused
+ai_use_defeats_purpose,AI should not be used for debates
+ai_use_disclosed,AI use for debates should be responsible and regulated
+ai_use_limited,AI should not be used for debates
+ai_use_maybe,Undecided about use of AI in debates
+ai_use_misuse,AI can be dangerous and misused
+ai_use_no,AI should not be used for debates
+ai_use_regulated,AI use for debates should be responsible and regulated
+ai_use_regulated_limited,AI use for debates should be responsible and regulated
+ai_use_responsibly,AI use for debates should be responsible and regulated
+ai_use_training_tool,AI as support for humans in debates
+ai_use_unclear,Undecided about use of AI in debates
+ai_use_undecided,Undecided about use of AI in debates
+ai_use_undecided',Undecided about use of AI in debates
+ai_use_yes,Support use in debates
+ai_valuable_contibution,Support use in debates
+ai_valuable_contribution,Support use in debates
+ai_valuable_contributions,Support use in debates
+ai_worse_quality_authenticity,AI answers worse than humans
+ai_worse_quality_novelty,AI answers worse than humans
+awareness_could_help,More information could help AI detection
+bad_quality_does_not_matter,Other
+change,Other
+context_to_distinguish,More information could help AI detection
+emotion_alarmed,Negative emotions
+emotion_amazement,Positive emotions
+emotion_confusion,Negative emotions
+emotion_deceived,Negative emotions
+emotion_dismay,Negative emotions
+emotion_fascinated,Positive emotions
+emotion_fear,Negative emotions
+emotion_impressed,Positive emotions
+emotion_shock,Negative emotions
+emotion_surprise,Positive emotions
+emotion_surprised,Positive emotions
+emotion_unhappiness,Negative emotions
+emotion_worry,Negative emotions
+ethical_concerns,AI use for debates should be responsible and regulated
+familiar_with_QT,Other
+human_quality_bad,Humans have bad quality answers
+human_quality_bad_coherence,Humans have bad quality answers
+human_quality_good_own_opinion, Human can express opinions
+made_mistake_in_survey,Other
+nature_of_ai,Other
+no_change,Other
+people_lie,Humans have bad quality answers
+preferred_real,Human answers better than AI answers
+quality_human_bad,Humans have bad quality answers
+satisfied_with_responses,Other
+study_encourages_caution,Other
+survey_structure_comment,Other
+suspected_ai_involvement,AI use suspected
+time_tracker_issue,Other
+unfamiliar_with_speakers,Other
