@@ -101,7 +101,7 @@ human_quality_bad_coherence,Humans have bad quality answers
 human_quality_good_own_opinion, Human can express opinions
 made_mistake_in_survey,Other
 nature_of_ai,Other
-no_change,Other
+no_change,No Change
 people_lie,Humans have bad quality answers
 preferred_real,Human answers better than AI answers
 quality_human_bad,Humans have bad quality answers
